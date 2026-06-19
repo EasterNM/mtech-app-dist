@@ -1,0 +1,6 @@
+{
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://raw.githubusercontent.com/EasterNM/mtech-app-dist/main/app-debug.apk",
+  "changeLog": "ย้ายระบบอัปเดตแอปพลิเคชันไปที่ GitHub เพื่อรองรับโทรศัพท์พนักงานที่ไม่มี VPN/Tailscale"
+}
