@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apkUrl": "https://raw.githubusercontent.com/EasterNM/mtech-app-dist/main/app-debug.apk",
-  "changeLog": "ปรับปรุงระบบ OCR ย้ายการทำงานไปอยู่ฝั่งเซิร์ฟเวอร์แบบสมบูรณ์ พนักงานไม่จำเป็นต้องเชื่อมต่อ VPN เพื่ออัปเดตรูปถ่ายเข้าเซิร์ฟเวอร์อีกต่อไป"
+  "changeLog": "ดึงข้อมูลเที่ยวรถและ SO ตั้งแต่วันที่ 19 มิถุนายน 2569 เป็นต้นไป"
 }
