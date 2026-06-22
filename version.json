@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apkUrl": "https://raw.githubusercontent.com/EasterNM/mtech-app-dist/main/app-debug.apk",
-  "changeLog": "อัปเดตฟิลด์ตรวจสอบข้อมูลพนักงานขับรถจาก x_driver เป็น x_studio_ เพื่อความถูกต้องในการดึงเที่ยวรถ"
+  "changeLog": "ปรับปรุงระบบจัดเก็บภาพถ่ายบิลขนส่งร่วม (Transport Company) ให้จัดเก็บรวมกันที่เอกสารใบจัด (DT) เพียงที่เดียวเพื่อลดความซ้ำซ้อนของข้อมูลและป้องกันปัญหาการจับคู่ล้มเหลว"
 }
