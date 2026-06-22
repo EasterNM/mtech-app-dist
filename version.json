@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "2.0",
   "apkUrl": "https://raw.githubusercontent.com/EasterNM/mtech-app-dist/main/app-debug.apk",
-  "changeLog": "ปรับปรุงระบบจัดเก็บภาพถ่ายบิลขนส่งร่วม (Transport Company) ให้จัดเก็บรวมกันที่เอกสารใบจัด (DT) เพียงที่เดียวเพื่อลดความซ้ำซ้อนของข้อมูลและป้องกันปัญหาการจับคู่ล้มเหลว"
+  "changeLog": "ปรับปรุงระบบแนบรูปและข้อความ Chatter ของจุดส่งหน้าร้าน (ทั้ง SO และ DT) และระบบฝากขนส่ง (ลงเฉพาะ DT) พร้อมกรองคัดแยกบิลตามประเภทรูปภาพและแท็บบริษัทขนส่งบนหน้าบอร์ดของเสมียน"
 }
